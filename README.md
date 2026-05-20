@@ -12,32 +12,21 @@ The solution integrates NYC taxi mobility data, OpenAQ air quality measurements,
 - Demonstrate ETL, warehouse modeling, governance, and dashboarding capabilities
 ## Architecture
 
-OpenAQ API
-ECB FX API
-NYC Taxi Data
-GDP Data
-      ↓
-Bronze Layer
-      ↓
-Silver Layer
-      ↓
-Gold Warehouse
-      ↓
-Semantic Model
-      ↓
-Power BI Dashboards
+<img width="1710" height="673" alt="image" src="https://github.com/user-attachments/assets/ef590e5d-c7b6-404a-be53-8242a98ceb34" />
+
+
 ## Datasets
 
-### NYC Taxi Dataset
+### NYC Taxi Dataset - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Contains trip counts, revenue, fares, and trip distance information.
 
-### OpenAQ Dataset
+### OpenAQ Dataset - https://docs.openaq.org/about/about
 Contains PM2.5 and NO2 air quality measurements.
 
-### ECB FX Dataset
+### ECB FX Dataset - https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?format=csvdata 
 Contains USD/EUR exchange rates.
 
-### GDP Dataset
+### GDP Dataset - https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.MKTP.CD?format=json 
 Contains GDP values used for economic context.
 ## Data Engineering Pipeline
 
@@ -66,13 +55,6 @@ A star schema model was implemented for reporting.
 - Air Quality Dashboard
 - Mobility vs Air Quality Correlation
 - Economic Impact Dashboard
-  ## Key Insights
-
-- Weak negative correlation identified between taxi mobility and pollution levels
-- PM2.5 pollution peaks during summer months
-- Taxi revenue follows seasonal trends
-- OpenAQ data availability decreases significantly after 2023
-- GDP remained stable despite FX fluctuations
 ## Governance & Monitoring
 
 - Row-Level Security (RLS) implemented
