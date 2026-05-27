@@ -71,3 +71,15 @@ A star schema model was implemented for reporting.
 - Lakehouse
 - Warehouse
 - Semantic Models
+
+###	Key analytical questions
+	•	How does traffic intensity (trips per day) relate to air quality (PM2.5/NO2 levels) in NYC?
+Traffic intensity (trips per day) shows different relationships with NO2 and PM2.5 levels in NYC.
+
+For NO2, the correlation coefficient was 0.13 in 2022 and increased to 0.49 in 2023. This indicates that the relationship between traffic intensity and NO2 became stronger over time, changing from a weak positive correlation to a moderate positive correlation.
+
+For PM2.5, the correlation coefficient was -0.38 in 2022 and -0.04 in 2023. This suggests that in 2022 there was a moderate negative correlation between traffic intensity and PM2.5 levels, while in 2023 the relationship became very weak and close to no correlation.
+•	Which zones or times of day show the strongest link between taxi demand and pollution peaks?
+•	What is the average revenue per trip in USD vs EUR, and how does exchange rate fluctuation affect it?
+•	Over multiple years, do we see mobility/economic growth at the expense of environmental quality?
+
