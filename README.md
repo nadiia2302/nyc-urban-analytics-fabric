@@ -88,6 +88,15 @@ The strongest link between taxi demand and pollution peaks can be observed for b
 For PM2.5, the highest average pollution level was recorded during the summer, with an average value of 13.2. In 2023, the correlation between taxi demand and PM2.5 reached 1.0, indicating a perfect positive relationship. However, in 2022 the correlation was -0.42, showing a moderate negative relationship. The zones with the strongest association were Midtown Center, Upper East Side South, and Upper East Side North.
 
 For NO2, the highest average pollution level was observed during the winter, with an average value of 0.019. The correlation between taxi demand and NO2 was consistently strong and positive, with values of 0.84 in 2022 and 0.82 in 2023. The same zones - Midtown Center, Upper East Side South, and Upper East Side North - showed the strongest relationship between taxi demand and pollution peaks.
-•	What is the average revenue per trip in USD vs EUR, and how does exchange rate fluctuation affect it?
+###
+3. What is the average revenue per trip in USD vs EUR, and how does exchange rate fluctuation affect it?
+The average revenue per trip was higher in USD than in EUR in all years.
+
+In 2022, the average revenue per trip was 27.57 USD and 26.28 EUR. In 2023, the values increased to 32.38 USD and 29.95 EUR. In 2024, the average revenue was 31.94 USD and 29.35 EUR.
+
+Changes in the USD/EUR exchange rate affected the revenue values in EUR over time. The exchange rate went down during 2022, from 1.14 to 0.96 by September–October 2022. After that, it went up again to about 1.11 in December 2023, and then went down to around 1.04 in December 2024.
+
+These exchange rate changes affected the difference between revenue in USD and EUR. When the exchange rate went down, the EUR revenue became closer to the USD revenue. When the exchange rate went up, the difference between the two currencies became bigger.
+###
 •	Over multiple years, do we see mobility/economic growth at the expense of environmental quality?
 
