@@ -81,6 +81,7 @@ For NO2, the correlation coefficient was 0.13 in 2022 and increased to 0.49 in 2
 For PM2.5, the correlation coefficient was -0.38 in 2022 and -0.04 in 2023. This suggests that in 2022 there was a moderate negative correlation between traffic intensity and PM2.5 levels, while in 2023 the relationship became very weak and close to no correlation.
 
 However, it is important to note that OpenAQ data availability decreases significantly after 2023, resulting in limited air quality coverage for 2024–2025. Therefore, the analysis for later years may be less reliable due to missing or incomplete data.
+###
 2. Which zones or times of day show the strongest link between taxi demand and pollution peaks?
 The strongest link between taxi demand and pollution peaks can be observed for both PM2.5 and NO2 in specific seasons and NYC zones.
 
