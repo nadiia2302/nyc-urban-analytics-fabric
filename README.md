@@ -99,7 +99,8 @@ Changes in the USD/EUR exchange rate affected the revenue values in EUR over tim
 These exchange rate changes affected the difference between revenue in USD and EUR. When the exchange rate went down, the EUR revenue became closer to the USD revenue. When the exchange rate went up, the difference between the two currencies became bigger.
 ###
 4. Over multiple years, do we see mobility/economic growth at the expense of environmental quality?
+   
 Comparing 2022-2024, we see that GDP increased over time, showing economic growth. NO2 levels also increased from 2022 to 2023. At the same time, PM2.5 correlation changed from -0.38 in 2022 to around +0.02 in 2023, meaning the relationship with taxi demand became almost neutral.
 
 The average NO2 levels stayed relatively stable across the years, while the average PM2.5 levels increased over time.
-
+###
