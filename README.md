@@ -73,7 +73,7 @@ A star schema model was implemented for reporting.
 - Semantic Models
 
 ###	Key analytical questions
-1) How does traffic intensity (trips per day) relate to air quality (PM2.5/NO2 levels) in NYC?
+1.  How does traffic intensity (trips per day) relate to air quality (PM2.5/NO2 levels) in NYC?
 Traffic intensity (trips per day) shows different relationships with NO2 and PM2.5 levels in NYC.
 
 For NO2, the correlation coefficient was 0.13 in 2022 and increased to 0.49 in 2023. This indicates that the relationship between traffic intensity and NO2 became stronger over time, changing from a weak positive correlation to a moderate positive correlation.
@@ -81,7 +81,7 @@ For NO2, the correlation coefficient was 0.13 in 2022 and increased to 0.49 in 2
 For PM2.5, the correlation coefficient was -0.38 in 2022 and -0.04 in 2023. This suggests that in 2022 there was a moderate negative correlation between traffic intensity and PM2.5 levels, while in 2023 the relationship became very weak and close to no correlation.
 
 However, it is important to note that OpenAQ data availability decreases significantly after 2023, resulting in limited air quality coverage for 2024–2025. Therefore, the analysis for later years may be less reliable due to missing or incomplete data.
-2) Which zones or times of day show the strongest link between taxi demand and pollution peaks?
+2. Which zones or times of day show the strongest link between taxi demand and pollution peaks?
 The strongest link between taxi demand and pollution peaks can be observed for both PM2.5 and NO2 in specific seasons and NYC zones.
 
 For PM2.5, the highest average pollution level was recorded during the summer, with an average value of 13.2. In 2023, the correlation between taxi demand and PM2.5 reached 1.0, indicating a perfect positive relationship. However, in 2022 the correlation was -0.42, showing a moderate negative relationship. The zones with the strongest association were Midtown Center, Upper East Side South, and Upper East Side North.
